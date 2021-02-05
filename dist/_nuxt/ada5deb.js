@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{200:function(t,e,n){"use strict";n.r(e);var r={},c=n(16),component=Object(c.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("h1",[this._v("single product (ID: "+this._s(this.$route.params.pid)+")")])}),[],!1,null,"077fd8b6",null);e.default=component.exports}}]);
