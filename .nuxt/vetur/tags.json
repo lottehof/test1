@@ -1,0 +1,68 @@
+{
+  "Header": {
+    "description": "Auto imported from /components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from /components/Header.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from /components/Footer/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from /components/Footer/Footer.vue"
+  },
+  "FooterMenu": {
+    "description": "Auto imported from /components/Footer/FooterMenu.vue"
+  },
+  "LazyFooterMenu": {
+    "description": "Auto imported from /components/Footer/FooterMenu.vue"
+  },
+  "History": {
+    "description": "Auto imported from /components/History/History.vue"
+  },
+  "LazyHistory": {
+    "description": "Auto imported from /components/History/History.vue"
+  },
+  "Instagram": {
+    "description": "Auto imported from /components/Instagram/Instagram.vue"
+  },
+  "LazyInstagram": {
+    "description": "Auto imported from /components/Instagram/Instagram.vue"
+  },
+  "Information": {
+    "description": "Auto imported from /components/Information/Information.vue"
+  },
+  "LazyInformation": {
+    "description": "Auto imported from /components/Information/Information.vue"
+  },
+  "AppLinks": {
+    "description": "Auto imported from /components/Menu/AppLinks.vue"
+  },
+  "LazyAppLinks": {
+    "description": "Auto imported from /components/Menu/AppLinks.vue"
+  },
+  "TheHeader": {
+    "description": "Auto imported from /components/Menu/TheHeader.vue"
+  },
+  "LazyTheHeader": {
+    "description": "Auto imported from /components/Menu/TheHeader.vue"
+  },
+  "TheSideNav": {
+    "description": "Auto imported from /components/Menu/TheSideNav.vue"
+  },
+  "LazyTheSideNav": {
+    "description": "Auto imported from /components/Menu/TheSideNav.vue"
+  },
+  "AluSloepen": {
+    "description": "Auto imported from /components/Modellen/AluSloepen.vue"
+  },
+  "LazyAluSloepen": {
+    "description": "Auto imported from /components/Modellen/AluSloepen.vue"
+  },
+  "AluSportboot": {
+    "description": "Auto imported from /components/Modellen/AluSportboot.vue"
+  },
+  "LazyAluSportboot": {
+    "description": "Auto imported from /components/Modellen/AluSportboot.vue"
+  }
+}
