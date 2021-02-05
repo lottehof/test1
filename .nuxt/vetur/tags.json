@@ -1,9 +1,9 @@
 {
-  "Header": {
-    "description": "Auto imported from /components/Header.vue"
+  "History": {
+    "description": "Auto imported from /components/History/History.vue"
   },
-  "LazyHeader": {
-    "description": "Auto imported from /components/Header.vue"
+  "LazyHistory": {
+    "description": "Auto imported from /components/History/History.vue"
   },
   "Footer": {
     "description": "Auto imported from /components/Footer/Footer.vue"
@@ -16,12 +16,6 @@
   },
   "LazyFooterMenu": {
     "description": "Auto imported from /components/Footer/FooterMenu.vue"
-  },
-  "History": {
-    "description": "Auto imported from /components/History/History.vue"
-  },
-  "LazyHistory": {
-    "description": "Auto imported from /components/History/History.vue"
   },
   "Instagram": {
     "description": "Auto imported from /components/Instagram/Instagram.vue"

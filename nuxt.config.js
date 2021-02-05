@@ -2,7 +2,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
   head: {
-    title: 'my-first-nuxt-app',
+    title: 'Davy&Orsted',
     htmlAttrs: {
       lang: 'en'
     },

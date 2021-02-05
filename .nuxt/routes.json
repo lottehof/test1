@@ -1,12 +1,5 @@
 [
   {
-    "name": "users",
-    "path": "/users",
-    "component": "/Users/lottevanthof/Desktop/stage/test/my-first-nuxt-app/test1/pages/users.vue",
-    "chunkName": "pages/users",
-    "_name": "_7bdf2595"
-  },
-  {
     "name": "index",
     "path": "/",
     "component": "/Users/lottevanthof/Desktop/stage/test/my-first-nuxt-app/test1/pages/index.vue",
